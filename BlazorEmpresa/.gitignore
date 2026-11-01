@@ -1,0 +1,20 @@
+# Compilación .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.cache
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
